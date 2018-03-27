@@ -1,0 +1,63 @@
+td:not(.empty){
+	line-height:1;
+	border:1px solid black;
+	color:black;
+}
+h1{
+	font-size: 2vw;
+	text-align: center;
+	margin: 0;
+}
+h2{
+	text-align: right;
+	margin: 0;
+	font-size: 0.9vw;
+}
+h3{
+	text-align: left;
+	margin: 0;
+	font-size: 0.9vw;
+}
+
+.nonmetaux{
+	background-color:#A0FFA0;
+}
+
+.empty{
+	font-size: 1vw;
+}
+.metauxalcalins{
+	background-color: white;
+}
+
+.alcalinoterreux{
+	background-color: #D477C9;
+}
+
+.metauxpauvre{
+	background-color: #7B90A3;
+}
+
+.transition{
+	background-color: #FF6767;
+}
+
+.metalloide{
+	background-color: #3CFF30;
+}
+
+.halogene{
+	background-color: #40A5FF;
+}
+
+.gazrares{
+	background-color:#C0E8FF;
+}
+
+.lanthanides{
+	background-color:#ffd9b3;
+}
+
+.actinides{
+	background-color:#ffa64d;
+}
